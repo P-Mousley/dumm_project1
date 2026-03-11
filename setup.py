@@ -1,5 +1,5 @@
 """
-latest version created: test_setupline in dumm_project1/
+latest version created: test_protect in dumm_project1/
 
 python setup.py develop
 
