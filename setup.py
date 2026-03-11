@@ -1,5 +1,5 @@
 """
-The setup file. To install as a developer (only do this in a venv):
+latest version created: test_setupline in dumm_project1/
 
 python setup.py develop
 
